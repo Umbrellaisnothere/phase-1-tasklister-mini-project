@@ -45,4 +45,4 @@ document.addEventListener("DOMContentLoaded", () => {
     taskList.innerHTML = '';
     tasks.forEach(task => taskList.appendChild(task));
   }
-);
+});
